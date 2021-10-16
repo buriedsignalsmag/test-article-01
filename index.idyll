@@ -8,9 +8,9 @@
 // [Nav fullWidth:true /]
 
 [Header
-  title:"A Fantastic Title"
-  date:"October 11, 2021"
-  subtitle:"TK TK A punchy description of why we should read your article."
+  title:"Test Article"
+  date:"October 16, 2021"
+  subtitle:"Using D3, Three, and Greensock."
   fullWidth:true
   background:"#fff"
   color:"#333"
