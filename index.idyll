@@ -8,7 +8,7 @@
 // [Nav fullWidth:true /]
 
 [Header
-  title:"Test Article"
+  title:"New Title"
   date:"October 16, 2021"
   subtitle:"Using D3, Three, and Greensock."
   fullWidth:true
